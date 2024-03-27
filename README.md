@@ -1,4 +1,5 @@
 This is an algorithm project created by Omied Muhebi and Caroline Nkan
+
 Graph Class Definition:
 
 The Graph class represents an undirected graph and contains methods for adding nodes, adding edges between nodes, displaying the graph, and finding the shortest path using Dijkstra's algorithm.
