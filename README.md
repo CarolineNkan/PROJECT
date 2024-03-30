@@ -2,7 +2,7 @@
 "# Algorithms Project" 
 "# Algorithms Project" 
 =======
-This is an algorithm project created by Omied Muhebi and Caroline Nkan
+This is an algorithm project created by Omied Muhebi , Caroline Nkan and Syeda Mahnoor
 
 Graph Class Definition:
 
